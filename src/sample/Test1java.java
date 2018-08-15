@@ -7,7 +7,8 @@ public class Test1java {
 
 		int a = 10;
 		int b = 40;
-		int c = a+b;
+		int d=	20;
+		int c = a+b+d;
 		System.out.println(c);
 	}
 	
