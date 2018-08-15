@@ -10,6 +10,7 @@ public class Test1java {
 		int c=	20;
 		int d=	30;
 		int e = a+b+c+d;
+		int f= a-b;
 		System.out.println(c);
 	}
 	
