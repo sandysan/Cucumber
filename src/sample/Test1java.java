@@ -9,7 +9,7 @@ public class Test1java {
 		int b = 40;
 		int c=	20;
 		int d=	30;
-		int e = a+b+c;
+		int e = a+b+c+d;
 		System.out.println(c);
 	}
 	
