@@ -6,7 +6,7 @@ public class Test1java {
 		// TODO Auto-generated method stub
 
 		int a = 10;
-		int b = 30;
+		int b = 40;
 		int c = a+b;
 		System.out.println(c);
 	}
